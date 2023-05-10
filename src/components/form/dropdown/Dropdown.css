@@ -1,0 +1,11 @@
+.form-group select {
+    height: 30px;
+    font-size: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.form-group select:focus {
+    outline-color: #007bff;
+}
